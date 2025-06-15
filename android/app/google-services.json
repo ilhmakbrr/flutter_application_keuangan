@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "46211400305",
-    "project_id": "boncosapp",
-    "storage_bucket": "boncosapp.firebasestorage.app"
+    "project_number": "808972325447",
+    "project_id": "flutter-application-keuangan",
+    "storage_bucket": "flutter-application-keuangan.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:46211400305:android:96749073063b249b0551d0",
+        "mobilesdk_app_id": "1:808972325447:android:78f31c799119fcc74b9762",
         "android_client_info": {
           "package_name": "com.example.flutter_application_produk"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBKaG5XDe2QfViCcl8SiHjb3hsT0gPivxU"
+          "current_key": "AIzaSyAntHXCDipWPY5EcFFd3o7hFe0D3ZKFPx8"
         }
       ],
       "services": {
